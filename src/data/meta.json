@@ -1,7 +1,7 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
+    "title": "Blue Dots in a Red State",
+    "description": "This is a webring of Democratic Candidates.",
+    "image": "text_logo.png",
     "url": "https://webringdemo.netlify.com",
     "repo": "https://github.com/maxboeck/webring",
     "admins": [
